@@ -1,0 +1,6 @@
+INSERT INTO cuentas(persona, saldo) VALUES 
+('Andres',1000),
+('Jhon',2000);
+
+INSERT INTO bancos (nombre, total_transferencias) VALUES 
+('El banco financiero', 0);
